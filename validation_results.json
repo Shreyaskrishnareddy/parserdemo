@@ -1,0 +1,229 @@
+[
+  {
+    "filename": "Ahmad Qasem-Resume.pdf",
+    "validation_score": 1.0,
+    "total_checks": 8,
+    "passed_checks": 8,
+    "issues": [],
+    "strengths": [
+      "\u2705 Email correctly extracted: ahmad.elsheikhq@gmail.com",
+      "\u2705 Phone correctly extracted: (312) 723-2889",
+      "\u2705 Name correctly extracted: Ahmad Qassem",
+      "\u2705 Found 5 work positions",
+      "\u2705 Major company found: United Airline",
+      "\u2705 Major company found: Emburse",
+      "\u2705 Major company found: PepsiCo",
+      "\u2705 Major company found: Ligadata Solutions- Menlo Park",
+      "\u2705 Major company found: EtQ",
+      "\u2705 Found dates for 5/5 positions",
+      "\u2705 Education found: Ba chelor\u2019s Degree of Computer Engineering from ",
+      "\u2705 Found 16 skills (expected ~5)",
+      "\u2705 Certifications found: ['PMP Certified', 'Scrum Master Certified', 'Project Management Professional (PMP) \u00ae', 'Scrum Master Certified.']"
+    ]
+  },
+  {
+    "filename": "Ashok Kumar.doc",
+    "validation_score": 1.0,
+    "total_checks": 8,
+    "passed_checks": 8,
+    "issues": [],
+    "strengths": [
+      "\u2705 Email correctly extracted: ashokkumarg@hotmail.com",
+      "\u2705 Phone correctly extracted: (970) 363-3007",
+      "\u2705 Name correctly extracted: Ashok Kumar",
+      "\u2705 Found 2 work positions",
+      "\u2705 Found dates for 1/2 positions",
+      "\u2705 Education found: Ba chelor of Computer Science from Andhra University. from ",
+      "\u2705 Found 19 skills (expected ~4)"
+    ]
+  },
+  {
+    "filename": "Dexter Nigel Ramkissoon.docx",
+    "validation_score": 0.875,
+    "total_checks": 8,
+    "passed_checks": 7,
+    "issues": [
+      "\u274c No phone extracted"
+    ],
+    "strengths": [
+      "\u2705 Email correctly extracted: dexternigel@gmail.com",
+      "\u2705 Name correctly extracted: Dexter Nigel Ramkissoon, MBA, MS Cybersecurity, CISSP, CISM, CISA, CRISC, PMP, ISO 27001 CIS LA, PCI QSA, PCIP, CCNA, MCP, Security+, Network+",
+      "\u2705 Found 1 work positions",
+      "\u2705 Found dates for 1/1 positions",
+      "\u2705 Education found: MBA from ",
+      "\u2705 Found 25 skills (expected ~2)",
+      "\u2705 Certifications found: ['CISSP', 'CISM', 'CISA', 'CRISC', 'PMP', 'Security+', 'Network+', 'Project Management Professional(PMP)']"
+    ]
+  },
+  {
+    "filename": "Donald Belvin.docx",
+    "validation_score": 0.75,
+    "total_checks": 8,
+    "passed_checks": 6,
+    "issues": [
+      "\u274c No phone extracted",
+      "\u274c Education keywords found but not extracted"
+    ],
+    "strengths": [
+      "\u2705 Email correctly extracted: donald0099@gmail.com",
+      "\u2705 Name correctly extracted: Donald Belvin, PMP, SMC",
+      "\u2705 Found 17 work positions",
+      "\u2705 Found dates for 8/17 positions",
+      "\u2705 Found 13 skills (expected ~5)",
+      "\u2705 Certifications found: ['PMP']"
+    ]
+  },
+  {
+    "filename": "Jumoke-Adekanmi-Web-Developer-2025-03-21.pdf",
+    "validation_score": 1.0,
+    "total_checks": 8,
+    "passed_checks": 8,
+    "issues": [],
+    "strengths": [
+      "\u2705 Email correctly extracted: JumokeA@gmail.com",
+      "\u2705 Phone correctly extracted: (212) 363-0754",
+      "\u2705 Name correctly extracted: Jumoke Adekanmi",
+      "\u2705 Found 4 work positions",
+      "\u2705 Found dates for 2/4 positions",
+      "\u2705 Education found: BSc Computer Systems from City University of New York, NY",
+      "\u2705 Found 25 skills (expected ~13)"
+    ]
+  },
+  {
+    "filename": "Kiran N. Penmetcha_s Profile.pdf",
+    "validation_score": 0.875,
+    "total_checks": 8,
+    "passed_checks": 7,
+    "issues": [
+      "\u274c No position dates extracted"
+    ],
+    "strengths": [
+      "\u2705 Email correctly extracted: KPenmetcha@gmail.com",
+      "\u2705 Phone correctly extracted: (626) 736-0525",
+      "\u2705 Name correctly extracted: Kiran N. Penmetcha",
+      "\u2705 Found 7 work positions",
+      "\u2705 Education found: Ba chelors in computer science & engineering from Acharya Nagarjuna University, India",
+      "\u2705 Found 25 skills (expected ~8)",
+      "\u2705 Certifications found: ['Project Management Professional (PMP)', 'Certified SAFe\u00ae 5 Agilist', 'Certified ScrumMaster\u00ae']"
+    ]
+  },
+  {
+    "filename": "Mahesh_Bolikonda (1).pdf",
+    "validation_score": 1.0,
+    "total_checks": 8,
+    "passed_checks": 8,
+    "issues": [],
+    "strengths": [
+      "\u2705 Email correctly extracted: getmaheshb@gmail.com",
+      "\u2705 Phone correctly extracted: (832) 803-7434",
+      "\u2705 Name correctly extracted: Mahesh Bolikonda PMP and PMI-ACP",
+      "\u2705 Found 4 work positions",
+      "\u2705 Found dates for 4/4 positions",
+      "\u2705 Education found: Master of Computer Applications (MCA) from Sri Kirshnadevaraya University Campus Andhra Pradesh",
+      "\u2705 Found 25 skills (expected ~7)",
+      "\u2705 Certifications found: ['Project Management Professional (PMP) from Project Management Institute (PMI)']"
+    ]
+  },
+  {
+    "filename": "Mutchie.docx",
+    "validation_score": 1.0,
+    "total_checks": 8,
+    "passed_checks": 8,
+    "issues": [],
+    "strengths": [
+      "\u2705 Email correctly extracted: jivaniwilliam@hotmail.com",
+      "\u2705 Phone correctly extracted: (714) 609-1067",
+      "\u2705 Name correctly extracted: WILLIAM E. MUTCHIE",
+      "\u2705 Found 4 work positions",
+      "\u2705 Found dates for 4/4 positions",
+      "\u2705 Education found: Ba chelor of Science in Information and Computer Science from University of California, Irvine, CA",
+      "\u2705 Found 13 skills (expected ~7)"
+    ]
+  },
+  {
+    "filename": "PRANAY REDDY_DE_Resume.pdf",
+    "validation_score": 1.0,
+    "total_checks": 8,
+    "passed_checks": 8,
+    "issues": [],
+    "strengths": [
+      "\u2705 Email correctly extracted: pranayreddy9799@gmail.com",
+      "\u2705 Phone correctly extracted: (443) 406-8983",
+      "\u2705 Name correctly extracted: PRANAY REDDY",
+      "\u2705 Found 4 work positions",
+      "\u2705 Found dates for 2/4 positions",
+      "\u2705 Education found: Ma sters in data science at University of North Carolina Chapel Hill (Sep 2018 \u2013 Dec 2019) from ",
+      "\u2705 Found 25 skills (expected ~9)"
+    ]
+  },
+  {
+    "filename": "Resume of Connal Jackson.doc",
+    "validation_score": 0.375,
+    "total_checks": 8,
+    "passed_checks": 3,
+    "issues": [
+      "\u274c No email extracted",
+      "\u274c No phone extracted",
+      "\u274c No position dates extracted",
+      "\u274c Education keywords found but not extracted",
+      "\u274c Certification keywords found but none extracted"
+    ],
+    "strengths": [
+      "\u2705 Name correctly extracted: Connal Jackson",
+      "\u2705 Found 2 work positions",
+      "\u2705 Major company found: IBM British Petroleum",
+      "\u2705 Found 5 skills (expected ~1)"
+    ]
+  },
+  {
+    "filename": "Software_Developer_Resume.doc",
+    "validation_score": 1.0,
+    "total_checks": 8,
+    "passed_checks": 8,
+    "issues": [],
+    "strengths": [
+      "\u2705 Email correctly extracted: john.doe@example.com",
+      "\u2705 Phone correctly extracted: (123) 456-7890",
+      "\u2705 Name correctly extracted: JOHN DOE",
+      "\u2705 Found 2 work positions",
+      "\u2705 Found dates for 1/2 positions",
+      "\u2705 Education found: Ba chelor of Science in Computer Science from ",
+      "\u2705 Found 25 skills (expected ~14)",
+      "\u2705 Certifications found: ['- AWS Certified Solutions Architect', '- Microsoft Certified: Azure Developer Associate', '- Certified Scrum Master (CSM)', '- Google Professional Cloud Developer']"
+    ]
+  },
+  {
+    "filename": "Software_Developer_Resume.docx",
+    "validation_score": 1.0,
+    "total_checks": 8,
+    "passed_checks": 8,
+    "issues": [],
+    "strengths": [
+      "\u2705 Email correctly extracted: john.doe@example.com",
+      "\u2705 Phone correctly extracted: (123) 456-7890",
+      "\u2705 Name correctly extracted: JOHN DOE",
+      "\u2705 Found 2 work positions",
+      "\u2705 Found dates for 1/2 positions",
+      "\u2705 Education found: Ba chelor of Science in Computer Science from ",
+      "\u2705 Found 25 skills (expected ~14)",
+      "\u2705 Certifications found: ['- AWS Certified Solutions Architect', '- Microsoft Certified: Azure Developer Associate', '- Certified Scrum Master (CSM)', '- Google Professional Cloud Developer']"
+    ]
+  },
+  {
+    "filename": "ZAMEN_ALADWANI_PROJECT MANAGER_09_01_2023.pdf",
+    "validation_score": 1.0,
+    "total_checks": 8,
+    "passed_checks": 8,
+    "issues": [],
+    "strengths": [
+      "\u2705 Email correctly extracted: zaman.adwani@gmail.com",
+      "\u2705 Phone correctly extracted: (469) 779-5417",
+      "\u2705 Name correctly extracted: Zaman Adwani",
+      "\u2705 Found 4 work positions",
+      "\u2705 Found dates for 2/4 positions",
+      "\u2705 Education found: Master of Business Administration MBA from Grand Canyon University \u2013 USA",
+      "\u2705 Found 14 skills (expected ~4)",
+      "\u2705 Certifications found: ['\u00d8 Scaled Agile Foundation \u2013 SAFe Training', '\u00d8 Certified Scrum Master \u2013 CSM', '\u00d8 Project Management Professional \u2013 PMP Training']"
+    ]
+  }
+]

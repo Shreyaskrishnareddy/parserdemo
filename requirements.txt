@@ -1,0 +1,6 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+PyMuPDF==1.23.3
+python-docx==0.8.11
+olefile==0.46
+docx2txt==0.8
