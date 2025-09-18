@@ -136,5 +136,3 @@ MIT License - feel free to use in your projects!
 4. Submit a pull request
 
 ---
-
-**Built with ❤️ using Flask, PyMuPDF, and modern web standards**
