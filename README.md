@@ -1,6 +1,6 @@
 # Resume Parser Demo 🎯
 
-A production-ready resume parser with Apple-like minimalistic UI and 97.7% accuracy on target files.
+A production-ready resume parser with 97.7% accuracy on target files.
 
 ## ✨ Features
 
@@ -136,3 +136,4 @@ MIT License - feel free to use in your projects!
 4. Submit a pull request
 
 ---
+
