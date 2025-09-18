@@ -11,7 +11,7 @@ Your **Resume Parser Demo** project is ready to be pushed to GitHub. All files a
 2. **Create New Repository**:
    - Click the "+" icon → "New repository"
    - Repository name: `parserdemo`
-   - Description: `Resume Parser Demo with Apple-like UI and 97.7% accuracy. Production-ready Flask server with TextKernel compatibility.`
+   - Description: `Resume Parser Demo with clean UI and 97.7% accuracy. Production-ready Flask server with standard JSON output.`
    - Make it **Public** ✅
    - **DO NOT** initialize with README, .gitignore, or license (we already have these)
 
@@ -46,10 +46,10 @@ Your **Resume Parser Demo** project is ready to be pushed to GitHub. All files a
 - ✅ **README.md**: Comprehensive documentation
 
 **Key Features:**
-- 🎨 Apple-like minimalistic UI with SF Pro Display typography
+- 🎨 Clean minimalistic UI with professional typography
 - 📊 97.7% accuracy on target resume files (91% overall)
 - ⚡ Real-time processing < 100ms average
-- 🔧 TextKernel compatible JSON output format
+- 🔧 Standard JSON output format
 - 📁 Support for PDF, DOC, DOCX, TXT files
 - 🐛 Fixed JavaScript bugs for proper result display
 

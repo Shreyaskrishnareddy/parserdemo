@@ -1,14 +1,14 @@
-# Resume Parser Demo 🎯
+# Resume Parser Demo
 
-A production-ready resume parser with 97.7% accuracy on target files.
+A production-ready resume parser with clean minimalistic UI and 97.7% accuracy on target files.
 
-## ✨ Features
+## Features
 
 - **High Accuracy**: 97.7% accuracy on target resume files (91% overall)
-- **Apple-like UI**: Clean, minimalistic design with SF Pro Display typography
+- **Clean Interface**: Modern, minimalistic design with professional typography
 - **Multiple Formats**: Supports PDF, DOC, DOCX, TXT files
 - **Real-time Processing**: < 100ms average processing time
-- **TextKernel Compatible**: Industry-standard JSON output format
+- **Standard JSON Output**: Industry-standard JSON format
 - **Drag & Drop**: Modern file upload interface
 
 ## 🚀 Quick Start
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ### Running the Server
 
-#### Apple-like Clean UI (Recommended)
+#### Clean UI (Recommended)
 ```bash
 python3 clean_server.py
 ```
@@ -89,30 +89,30 @@ Body: file (PDF/DOC/DOCX/TXT)
   },
   "Skills": [...],
   "processing_time": 0.089,
-  "textkernel_format": true
+  "standard_format": true
 }
 ```
 
-## 🔧 Key Components
+## Key Components
 
-- **`clean_server.py`**: Main Apple-like UI server with fixed JavaScript bugs
+- **`clean_server.py`**: Main UI server with fixed JavaScript bugs
 - **`fixed_resume_parser.py`**: Core parsing engine with enhanced accuracy
 - **`fixed_server.py`**: Alternative server implementation
 - **`validation_results.json`**: Accuracy test results
 
-## 📈 Performance Highlights
+## Performance Highlights
 
 - **Processing Speed**: Sub-100ms response times
 - **File Support**: PDF (PyMuPDF), DOC/DOCX (python-docx), TXT
 - **Memory Efficient**: Temporary file handling with automatic cleanup
 - **Error Handling**: Comprehensive validation and error reporting
 
-## 🎨 UI Features
+## UI Features
 
 - Modern drag & drop interface
 - Real-time processing indicators
 - Responsive design
-- Clean typography (SF Pro Display)
+- Clean professional typography
 - Structured result display
 - JSON output viewer
 
